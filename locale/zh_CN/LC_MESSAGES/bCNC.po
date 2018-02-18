@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-29 09:17+0100\n"
-"PO-Revision-Date: 2018-02-15 10:18+0800\n"
+"PO-Revision-Date: 2018-02-18 15:55+0800\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2615,7 +2615,7 @@ msgstr "生成配置文件路径"
 
 #: ToolsPage.py:770
 msgid "Generate pocket path"
-msgstr "生成数据路径"
+msgstr "生成铣槽加工路径"
 
 #: ToolsPage.py:780
 msgid "Number of tabs"
@@ -2835,11 +2835,11 @@ msgstr "以选定的代码进行轮廓操作"
 
 #: ToolsPage.py:1145
 msgid "Pocket"
-msgstr "紧凑"
+msgstr "铣槽"
 
 #: ToolsPage.py:1152
 msgid "Perform a pocket operation on selected code"
-msgstr "以选定代码进行紧凑操作"
+msgstr "以选定代码进行铣槽操作"
 
 #: ToolsPage.py:1159
 msgid "Drill"
@@ -3347,7 +3347,7 @@ msgstr "创建正齿轮"
 
 #: plugins/gear.py:180
 msgid "Generated: Spur GEAR"
-msgstr "生成：正齿轮"
+msgstr "生成: 正齿轮"
 
 #: plugins/flatten.py:11
 msgid "Flatten"
@@ -3359,7 +3359,7 @@ msgstr "平扩中止: 切割方向未定义"
 
 #: plugins/flatten.py:38
 msgid "Flatten abort: Pocket Type is undefined"
-msgstr "平扩中止: 紧凑类型未定义"
+msgstr "平扩中止: 铣槽类型未定义"
 
 #: plugins/flatten.py:42
 msgid "Flatten abort: Flatten Area dimensions must be > 0"
@@ -3407,7 +3407,7 @@ msgstr "切割方向"
 
 #: plugins/flatten.py:263
 msgid "Pocket type"
-msgstr "紧凑型"
+msgstr "铣槽类型"
 
 #: plugins/flatten.py:289
 msgid "Flatten: Generated flatten surface"
@@ -3524,7 +3524,7 @@ msgstr "箱体"
 
 #: plugins/box.py:299
 msgid "Generate a finger box"
-msgstr "创建一图示箱体"
+msgstr "创建一榫卯箱体"
 
 #: plugins/box.py:306
 msgid "Internal Dimensions"
@@ -3556,11 +3556,11 @@ msgstr "图示 Nz"
 
 #: plugins/box.py:350
 msgid "Create finger BOX"
-msgstr "创建图示箱体"
+msgstr "创建榫卯箱体"
 
 #: plugins/box.py:352
 msgid "Generated: BOX with fingers"
-msgstr "生成: 图示箱体"
+msgstr "生成: 榫卯箱体"
 
 #: plugins/spirograph.py:12
 msgid "Spirograph"
@@ -3782,4 +3782,4 @@ msgstr "生成: 碗状"
 
 #: plugins/bowl.py:128
 msgid "Error: Check the Bowl and End Mill parameters"
-msgstr "错误: 检查碗状和铣刀参数"
+msgstr "错误: 检查碗状和铣削参数"
