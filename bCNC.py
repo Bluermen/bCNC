@@ -13,6 +13,8 @@ __email__   = "vvlachoudis@gmail.com"
 import os
 import re
 import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 import pdb
 import time
 import getopt
